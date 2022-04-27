@@ -1,8 +1,8 @@
 {
-  "title": "Title",
-  "Welcome to React": "Welcome to React and react-i18next",
+  "title": "English translation",
+  "Welcome to React": "Welcome to Brazil",
   "description": {
     "part1": "EN",
-    "part2": "some description"
+    "part2": "Hello World!"
   }
 }

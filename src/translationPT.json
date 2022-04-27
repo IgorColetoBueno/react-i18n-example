@@ -1,8 +1,8 @@
 {
-  "title": "Brazil",
-  "Welcome to React": "Brazil",
+  "title": "Tradução em português",
+  "Welcome to React": "Bem-vindo ao Brasil",
   "description": {
-    "part1": "Brazil",
-    "part2": "Brazil"
+    "part1": "pt-BR",
+    "part2": "Olá mundo!"
   }
 }

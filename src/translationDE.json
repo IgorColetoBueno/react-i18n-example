@@ -1,8 +1,8 @@
 {
-  "title": "DE ***** Title",
-  "Welcome to React": "DE  **** Welcome to React and react-i18next",
+  "title": "Deutsche Übersetzung",
+  "Welcome to React": "Willkommen in Brasilien",
   "description": {
-    "part1": "DE ****",
-    "part2": "DE  **** some description"
+    "part1": "DE",
+    "part2": "Hallo Welt!"
   }
 }
