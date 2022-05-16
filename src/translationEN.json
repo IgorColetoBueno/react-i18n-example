@@ -1,8 +1,9 @@
 {
-  "title": "English translation",
+  "title": "Portuguese translation",
   "Welcome to React": "Welcome to Brazil",
   "description": {
-    "part1": "EN",
+    "part1": "en",
     "part2": "Hello World!"
-  }
+  },
+  "error-9000": "The user is invalid"
 }

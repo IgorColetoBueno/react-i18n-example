@@ -1,8 +1,9 @@
 {
-  "title": "Deutsche Übersetzung",
+  "title": "Portugiesisch Übersetzung",
   "Welcome to React": "Willkommen in Brasilien",
   "description": {
-    "part1": "DE",
+    "part1": "de",
     "part2": "Hallo Welt!"
-  }
+  },
+  "error-9000": "Valor deste texto em alemão"
 }

@@ -4,5 +4,6 @@
   "description": {
     "part1": "pt-BR",
     "part2": "Olá mundo!"
-  }
+  },
+  "error-9000": "O usuário é inválido"
 }

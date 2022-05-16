@@ -33,8 +33,8 @@ function Page() {
         <button type="button" onClick={() => changeLanguage('en')}>
           en
         </button>
-        <button type="button" onClick={() => changeLanguage('ptBR')}>
-          ptBR
+        <button type="button" onClick={() => changeLanguage('pt-BR')}>
+          pt-BR
         </button>
       </div>
       <div className="App-intro">
