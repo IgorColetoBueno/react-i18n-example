@@ -8,6 +8,6 @@
 
 Executa a build do container
 
-### `docker run -d --name i18-example -p 80:80 i18-example`
+### `docker run --restart always -d --name i18-example -p 80:80 i18-example`
 
 Roda o container chamado "esm" com base na imagem "esm" na porta 80
